@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20617341844",
+    "project_id": "rn-contacts-1616d",
+    "storage_bucket": "rn-contacts-1616d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20617341844:android:a8d478b6ceb74d8943fd81",
+        "android_client_info": {
+          "package_name": "com.ovitlab.rncontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20617341844-r7rjmhaupjcifijdahjgol1nqudbmp89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Dn4pT8y4etQDsdkkDwJOuorVrRq9Dw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20617341844-r7rjmhaupjcifijdahjgol1nqudbmp89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
